@@ -3,3 +3,6 @@
 ################################################################################
 
 /DruštvoWPF/.vs/DruštvoWPF/v15/Server/sqlite3
+/DruštvoWPF/.vs/DruštvoWPF/v15/sqlite3/db.lock
+/DruštvoWPF/.vs/DruštvoWPF/v15/sqlite3/storage.ide-shm
+*.ide-wal

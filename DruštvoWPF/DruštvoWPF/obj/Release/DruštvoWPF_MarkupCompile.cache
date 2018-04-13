@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-D:\vaja1git\Vaja1\DruštvoWPF\DruštvoWPF\obj\Debug\
+D:\vaja1git\Vaja1\DruštvoWPF\DruštvoWPF\obj\Release\
 DruštvoWPF
 none
 false
-DEBUG;TRACE
+TRACE
 D:\vaja1git\Vaja1\DruštvoWPF\DruštvoWPF\App.xaml
 51564508892
 
