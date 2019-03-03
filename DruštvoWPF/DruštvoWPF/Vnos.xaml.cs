@@ -16,9 +16,7 @@ using System.Windows.Shapes;
 
 namespace DruštvoWPF
 {
-    /// <summary>
-    /// Interaction logic for Vnos.xaml
-    /// </summary>
+    
     public partial class Vnos : Window
     {
         string pot = Resource1.datoteka;
