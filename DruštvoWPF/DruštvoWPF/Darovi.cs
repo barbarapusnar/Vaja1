@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DruštvoWPF
 {
-    //komentar
+    
     [Serializable]
     public class Darovi
     {
