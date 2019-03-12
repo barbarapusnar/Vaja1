@@ -17,9 +17,6 @@ using System.Windows.Shapes;
 
 namespace DruštvoWPF
 {
-    /// <summary>
-    /// Interaction logic for Pregled.xaml
-    /// </summary>
     public partial class Pregled : Window
     {
         string pot = Resource1.datoteka;
