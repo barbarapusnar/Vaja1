@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DruštvoWPF
 {
-    //bla bla ba
+   
     [Serializable]
     public class Darovi
     {
