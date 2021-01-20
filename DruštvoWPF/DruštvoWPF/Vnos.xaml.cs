@@ -17,6 +17,7 @@ using System.Windows.Shapes;
 namespace DruštvoWPF
 {
     //zelo pomembna sprememba -->
+    //ni bila tako zelo pomembna
     public partial class Vnos : Window
     {
         string pot = Resource1.datoteka;
